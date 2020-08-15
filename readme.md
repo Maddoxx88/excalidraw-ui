@@ -21,6 +21,9 @@
 ### Avatars
 
 <img src="media/avatars.jpg" width="300">
+<img src="media/avatar-circle.jpg" width="300">
+<img src="media/avatar-square.jpg" width="300">
+
 
 ### Text Input
 
@@ -66,8 +69,18 @@
 
 <img src="media/table.jpg" width="600">
 
-## Mobile Kit
 
-| Login Screen   | Register Screen | Onboarding Screen  |
-| :-------------: |:-------------:|:-----:|
-| <img src="media/login-screen.jpg" height="500"> | <img src="media/reg-screen.jpg" height="500"> | <img src="media/onboarding-screen.jpg" height="500"> |
+### Alerts
+
+<img src="media/alert-warning.jpg" width="600">
+<img src="media/alert-error.jpg" width="600">
+<img src="media/alert-success.jpg" width="600">
+<img src="media/alert-update.jpg" width="600">
+
+### Stat Cards
+
+<img src="media/stats-component.jpg" width="600">
+
+### Pricing
+
+<img src="media/pricing-component.jpg" width="600">
