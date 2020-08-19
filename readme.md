@@ -79,8 +79,4 @@
 
 ### Stat Cards
 
-<img src="media/stats-component.jpg" width="600">
-
-### Pricing
-
-<img src="media/pricing-component.jpg" width="600">
+<img src="media/stats.jpg" width="600">
